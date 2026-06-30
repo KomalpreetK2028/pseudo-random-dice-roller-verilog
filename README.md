@@ -99,6 +99,9 @@ The testbench checks:
 - Dice rolling animation
 
 ---
+## Waveforms
+<img width="1918" height="1031" alt="gtkwave" src="https://github.com/user-attachments/assets/4f3a23e6-90b1-4d4c-8210-d412bc897a5a" />
+
 
 ## 👩‍💻 Author
 
